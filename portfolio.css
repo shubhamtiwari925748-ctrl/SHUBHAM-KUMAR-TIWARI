@@ -111,7 +111,7 @@ transform: translate(-50%, -50%);
     width: 33rem;
 }
 .circle:nth-child(2){
-    background-image: url("image/SHUBHAM\ 5.jpeg");
+    background-image: url("/SHUBHAM 5.jpeg");
     width: 25rem;
     background-size: 100%;
   background-repeat: no-repeat;
